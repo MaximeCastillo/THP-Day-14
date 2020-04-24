@@ -17,4 +17,9 @@ Coder un jeu de Morpion selon les règles suivantes :
 Entrainement à la Programmation Orientée Objet
 
 --------------------------------------------
+
+Pour lancer une partie, il suffit d'exécuter le fichier app.rb
+Puis laissez vous guider dans le terminal ;)
+
+--------------------------------------------
 Auteur : Maxime CASTILLO
